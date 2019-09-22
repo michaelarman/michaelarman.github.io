@@ -15,6 +15,7 @@
 [Steganalysis Research Project](https://github.com/michaelarman/Steganalysis-Research-Project/blob/master/Research-Project.pdf)
 
 ---
+
 [Appendix (Code) of the project](https://github.com/michaelarman/Steganalysis-Research-Project/blob/master/Research-Project%20-%20Appendix.pdf)
 <img src="images/steganography.jpg?raw=true"/>
 
