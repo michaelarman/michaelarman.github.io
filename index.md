@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Men’s U-Sports Basketball Analysis](/basketball-analysis)
+[Men’s U-Sports Basketball Analysis](https://michaelarman.github.io/basketball-analysis/_book/index.html)
 <img src="images/unnamed-chunk-46-1.png?raw=true"/>
 
 ---
