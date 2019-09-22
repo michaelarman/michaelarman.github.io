@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Men’s U-Sports Basketball Analysis](/basketball-analysis/_book/index.html)
+[Men’s U-Sports Basketball Analysis](/basketball-analysis)
 <img src="images/unnamed-chunk-46-1.png?raw=true"/>
 
 ---
