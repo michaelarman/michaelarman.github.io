@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Men’s U-Sports Basketball Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Men’s U-Sports Basketball Analysis](/Project1)
+<img src="images/dunnamed-chunk-46-1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
