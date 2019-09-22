@@ -25,3 +25,5 @@
 
 
 
+## Resume
+[My Resume](/pdf/LatexResume.pdf)
