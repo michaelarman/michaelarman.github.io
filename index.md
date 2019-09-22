@@ -20,7 +20,7 @@
 <img src="images/steganography.jpg?raw=true"/>
 
 ---
-[Heart Disease Project](/pdf/Final-Project-Report-Heart Disease.pdf)
+[Heart Disease Project](/pdf/Final-Project-Report-Heart-Disease.pdf)
 
 
 
