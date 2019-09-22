@@ -21,6 +21,7 @@
 
 ---
 [Heart Disease Project](/pdf/Final-Project-Report-Heart-Disease.pdf)
+<img src="images/heartdisease.png?raw=true"/>
 
 
 
