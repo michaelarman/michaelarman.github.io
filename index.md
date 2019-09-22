@@ -9,7 +9,7 @@
 
 ---
 [Data Scraping Basketball Data](https://github.com/michaelarman/Python-Data-Scrape/blob/master/python%20data%20scrape.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/web-scraping-service.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
