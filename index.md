@@ -9,7 +9,7 @@
 
 ---
 [Data Scraping Basketball Data](https://github.com/michaelarman/Python-Data-Scrape/blob/master/python%20data%20scrape.ipynb)
-<img src="images/web-scraping-service.png?raw=true"/>
+<img src="images/webscrape.png?raw=true"/>
 
 ---
 [Steganalysis Research Project](https://github.com/michaelarman/Steganalysis-Research-Project/blob/master/Research-Project.pdf)
