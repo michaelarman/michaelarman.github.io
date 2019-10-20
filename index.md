@@ -3,7 +3,10 @@
 ---
 
 ### Data Science Projects 
+[Audio Classification of Accents Using Deep Learning](https://michaelarman.github.io/Accents/)
+<img src="images/audio.png?raw=true"/>
 
+---
 [Men’s U-Sports Basketball Analysis](https://michaelarman.github.io/basketball-analysis/_book/index.html)
 <img src="images/collage.png?raw=true"/>
 
