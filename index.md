@@ -29,4 +29,4 @@
 
 
 ## Resume
-[My Resume](/pdf/LatexResume.pdf)
+[My Resume](/pdf/Resume__Data_Scientist_.pdf)
