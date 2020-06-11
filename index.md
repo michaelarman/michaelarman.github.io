@@ -40,6 +40,6 @@
 
 
 ## Resume
-[My Resume](/pdf/Resume__Data_Scientist_.pdf)
+[My Resume](/pdf/Resume_Data_Scientist.pdf)
 
 [Medium Profile](https://medium.com/@michaelarman)
