@@ -7,6 +7,10 @@
 <img src="images/audio.png?raw=true"/>
 
 ---
+[US Traffic Analysis - Including BERT deep learning and Spatial Analysis](https://github.com/michaelarman/US-Accidents)
+<img src="images/collision.jpg?raw=true"/>
+
+---
 [Canada Post - Time Series Forecasting](https://github.com/michaelarman/Canada-Post-Challenge)
 
 
@@ -37,3 +41,5 @@
 
 ## Resume
 [My Resume](/pdf/Resume__Data_Scientist_.pdf)
+
+[Medium Profile](https://medium.com/@michaelarman)
