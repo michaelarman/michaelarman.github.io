@@ -7,17 +7,24 @@
 <img src="images/audio.png?raw=true"/>
 
 ---
+[Canada Post - Time Series Forecasting](https://github.com/michaelarman/Canada-Post-Challenge)
+
+
+<img src="images/canadapost.png?raw=true"/>
+
+---
 [Men’s U-Sports Basketball Analysis](https://michaelarman.github.io/basketball-analysis/_book/index.html)
 <img src="images/collage.png?raw=true"/>
 
 ---
 [Data Scraping Basketball Data](https://github.com/michaelarman/Python-Data-Scrape/blob/master/python%20data%20scrape.ipynb)
+
+
 <img src="images/webscrape.png?raw=true"/>
 
 ---
 [Steganalysis Research Project](https://github.com/michaelarman/Steganalysis-Research-Project/blob/master/Research-Project.pdf)
 
----
 
 [Appendix (Code) of the project](https://github.com/michaelarman/Steganalysis-Research-Project/blob/master/Research-Project%20-%20Appendix.pdf)
 <img src="images/steganography.jpg?raw=true"/>
